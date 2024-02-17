@@ -1,0 +1,75 @@
+/*
+<selector> {
+     <propiedad>: <valor>
+    }
+*/
+/* comentario */
+
+#test {
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 2%, rgba(0,212,255,1) 100%);
+    
+}
+p {
+
+    
+text-align: center;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif
+
+
+}
+
+.ul {
+    border: 0cap; 
+    border: solid red;
+border-radius: 1em;
+}
+
+
+.Redes {
+    color: aliceblue;
+    border: 0cap;
+    border-color: aqua;
+
+}
+
+body #test .para {
+
+    color: aliceblue;
+}
+
+h2 {
+    color: aqua;
+}
+
+.tes3 {
+
+color: brown;
+
+}
+
+p {
+
+
+}
+
+h2 {
+
+    color: aliceblue;
+
+}
+h2:hover {
+
+    color: black;
+    
+}
+
+
+#ho {
+    color: aliceblue;
+}
+#ho:hover {
+    color: black;
+}
